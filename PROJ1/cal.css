@@ -1,0 +1,24 @@
+.hov:hover{
+    border-bottom: 2px solid black;
+}
+#main{
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+body{
+    background-image: url(https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d-1200-80.jpg);
+
+ background-repeat: no-repeat;
+ background-size: 100%;
+
+
+}
+.ope{
+    height: 700px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
